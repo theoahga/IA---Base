@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/metier/actions/FabriqueAction.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/objets/PlantePanais.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/carte/ressources/TypeRessource.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/cases/TypeCase.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/objets/PlanteChouFleur.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/automate/etats/EtatAllerRecolter.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/automate/etats/EtatAllerArroser.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/objets/Objet.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/Module_Memoire.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/metier/actions/TypeAction.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/metier/actions/ActionCueillir.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/objets/Plante.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/Joueur.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/automate/etats/EtatAllerRemplir.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/automate/etats/EtatCheckCarte.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/automate/etats/EtatAllerPlanter.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/metier/actions/ActionRemplir.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/metier/actions/ActionArroser.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/cases/CaseHerbe.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/modules/automate/etats/EtatCheckAction.java</file>
+            <file>file:/C:/Users/clere/OneDrive/Bureau/Docs/IA%20-%20Base/src/ia/base/metier/cases/FabriqueCase.java</file>
+        </group>
+    </open-files>
+</project-private>
